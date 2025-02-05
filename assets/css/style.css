@@ -9186,6 +9186,7 @@ a {
   color: var(--color-heading);
   text-decoration: none;
   outline: none;
+  width: 130px;
 }
 
 a:hover,
